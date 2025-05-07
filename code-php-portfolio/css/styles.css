@@ -1,0 +1,27 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+  background-image: url("../img/haikeigazou.jpg");
+  background-size: cover;
+  color: #3e2f1c; /* カフェっぽいブラウン */
+}
+.content {
+  background-color: rgba(255, 255, 255, 0.85); /* 少し白で読ませやすく */
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+} 
+
+  
+  
+  /* 見出し */
+  h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    color: #6e4c1e;
+  }
+
+  
